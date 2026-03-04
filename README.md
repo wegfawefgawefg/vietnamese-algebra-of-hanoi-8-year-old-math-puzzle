@@ -39,6 +39,10 @@ the strict classic (`(G*H)/I`).
 cargo run
 ```
 
+## Fun Experiment
+
+- [Typing the Coding Interview (Funny Experimental Architecture)](./docs/typing-the-coding-interview.md)
+
 ## References Commonly Cited for the Viral Puzzle
 
 - MindYourDecisions coverage of the Vietnam puzzle
